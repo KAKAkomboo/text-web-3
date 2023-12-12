@@ -1,0 +1,33 @@
+.header {
+    width: 2000px;
+    height: 200px;
+    background-color: rgb(180, 131, 227);
+}
+
+.web {
+    margin-top: 20px;
+    display: flex;
+}
+
+.sidebar {
+    width: 500px;
+    height: 400px;
+    background-color: rgb(180, 131, 227);
+}
+
+.main {
+    width: 1480px;
+    height: 140px;
+    background-color: rgb(180, 131, 227);
+}
+
+.footer {
+    width: 1480px;
+    height: 240px;
+    background-color: rgb(180, 131, 227);
+    margin-top: 20px;
+}
+
+.colum {
+    margin-left: 20px;
+}
